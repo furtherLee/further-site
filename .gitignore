@@ -1,3 +1,4 @@
 *.htaccess
-app/views/pages/*
+app/config.php
+app/views/pages/*.html
 

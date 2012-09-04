@@ -4,5 +4,5 @@
  * Author: Li Shijian
  * Last Modification: 2012.9.4
  */
-require("app/config.php");
-require("app/show.php");
+require_once("app/config.php");
+require_once("app/show.php");
