@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #eeeeee url(../img/bg.jpg) repeat-x; 
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.container{
+    clear: both;
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+#page-title {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: #eeeeee;
+}
+
+#body {
+    width: 960px;
+    display: block;
+    margin: 0 0 20px 0;
+    
+}
+
+nav {
+    -webkit-box-shadow: rgba(0, 0, 0, 0.0976563) 0px -1px 0px 0px inset, rgba(0, 0, 0, 0.0976563) 0px 1px 10px 0px;
+    background-color: #1B1B1B;
+    background-image: -webkit-linear-gradient(top, #222, #111);
+    background-repeat: repeat-x;
+    border-bottom-color: #252525;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: #252525;
+    border-left-style: solid;
+    border-left-width: 0px;
+    border-right-color: #252525;
+    border-right-style: solid;
+    border-right-width: 0px;
+    border-top-color: #252525;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-style: solid;
+    border-top-width: 0px;
+    box-shadow: rgba(0, 0, 0, 0.0976563) 0px -1px 0px 0px inset, rgba(0, 0, 0, 0.0976563) 0px 1px 10px 0px;
+    color: #999;
+    display: block;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    height: 40px;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0px;
+    min-height: 40px;
+    overflow-x: visible;
+    overflow-y: visible;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+}
+
+nav ul{
+background-color: transparent;
+color: #999;
+display: block;
+float: left;
+font-size: 13px;
+height: 40px;
+left: 0px;
+line-height: 20px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 10px;
+margin-top: 0px;
+overflow-x: visible;
+overflow-y: visible;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+position: relative;
+width: 630px;
+
+}
+
+nav ul li {
+    line-height: 20px;
+    float: left;
+    width: 80px;
+}
