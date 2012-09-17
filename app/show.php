@@ -7,11 +7,13 @@ function not_root(){
 function show($page){
   $templateDir = "app/view/templates";
   $pageDir = "app/view/pages";
-
+  global $pageTitle;
   if($page == '404' || !is_file("$pageDir/$page.html")){
     include('$templateDir/404.php');
     return;
   }
+
+  $title = $pageTitle[$page];
 
   include("$templateDir/header.php");
   include("$pageDir/$page.html");
