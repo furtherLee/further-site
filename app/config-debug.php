@@ -1,9 +1,10 @@
 <?php
 
-define('HOME_BASE', 'http://localhost/further/');
-define('JS_BASE', HOME_BASE.'assets/js/');
-define('CSS_BASE', HOME_BASE.'assets/css/');
-define('IMG_BASE', HOME_BASE.'assets/img/');
+define('HOME_BASE', 'http://www.lishijian.com/');
+define('URL_BASE', 'http://furthersite.sinaapp.com/');
+define('JS_BASE', URL_BASE.'assets/js/');
+define('CSS_BASE', URL_BASE.'assets/css/');
+define('IMG_BASE', URL_BASE.'assets/img/');
 
 $pageTitle = array(
 	       "about" => "Personal Information",
