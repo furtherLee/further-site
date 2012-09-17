@@ -467,7 +467,10 @@ body {
 	margin-bottom: 0.5em;
 }
 .postbody h3 {
-	font-size: 1.3em;
+	font-size: 2em;
+	font-weight: bold;
+	font-style: italic;
+	color: #009FCC;
 	text-transform: uppercase;
 }
 .postbody table {

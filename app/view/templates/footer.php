@@ -3,7 +3,7 @@
 </div>
 </div>
 <div>
-  <script type="text/javascript" src="<?php echo JS_BASE.'jquery-1.8.1.min.js'; ?>"></script>
+  <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.8/jquery.min.js"></script>
   <script type="text/javascript" src="<?php echo JS_BASE.'esquire.js'; ?>"></script>  
   <!-- js -->  
 </div>
