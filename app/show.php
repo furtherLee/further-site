@@ -9,7 +9,7 @@ function show($page){
   $pageDir = "app/view/pages";
   global $pageTitle;
   if($page == '404' || !is_file("$pageDir/$page.html")){
-    include('$templateDir/404.php');
+    include("$templateDir/404.php");
     return;
   }
 
