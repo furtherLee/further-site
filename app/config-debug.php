@@ -1,7 +1,7 @@
 <?php
 
-define('HOME_BASE', 'http://www.lishijian.com/');
-define('URL_BASE', 'http://furthersite.sinaapp.com/');
+define('HOME_BASE', 'http://localhost/further/');
+define('URL_BASE', 'http://localhost/further/');
 define('JS_BASE', URL_BASE.'assets/js/');
 define('CSS_BASE', URL_BASE.'assets/css/');
 define('IMG_BASE', URL_BASE.'assets/img/');
