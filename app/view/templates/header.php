@@ -31,7 +31,7 @@
 	<img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub">
       </a>
     </div>
-    <div class="posts">
+    <div id="posts">
       <div class="post type-post hentry status-publish format-link">
 	<div class="postbody link">
 	  <h1 class="entry-title"><?php echo $title;?></h1>
