@@ -4,7 +4,7 @@ Basic Information
 -----------------
 * Full Name: Li Shijian  
 * English Name:  Further Lee  
-* Email: 9588lsj@gmail.com  
+* Email: 95588lsj@gmail.com  
 * Living in: Beijing  
 * Current Position: Intern at HP Labs China  
 * CV: Li Shijian.pdf
