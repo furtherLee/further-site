@@ -473,6 +473,11 @@ body {
 	color: #009FCC;
 	text-transform: uppercase;
 }
+.postbody h4 {
+        font-size: 1.5em;
+	font-weight: bold;
+	text-transform: uppercase;
+}
 .postbody table {
 	font-size: 1.3em;
 	margin: 0 0 1.32em;
