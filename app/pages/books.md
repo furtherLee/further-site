@@ -25,7 +25,7 @@ Life
 
 ### Novel
 * *To Live* by Yu Hua  
-* *1587，A year of no significance: The Ming Dynasty in Decline* By Ray Huang  
+* *1587，A year of no significance: The Ming Dynasty in Decline* by Ray Huang  
 * *The Golden Age* by Wang Xiaobo  
 * *Wanshou Temple* by Wang Xiaobo  
 * *The Great Gatsby* by F. Scott Fitzgerald  

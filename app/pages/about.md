@@ -31,5 +31,5 @@ Miscellaneous
 * [My Blog](http://blog.lishijian.com)
 * [My Github](http://github.com/furtherLee)  
 * [My Bitbucket](https://bitbucket.org/furtherLee)  
-* Social Network: 
+
 
