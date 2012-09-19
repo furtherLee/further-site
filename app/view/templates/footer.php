@@ -5,6 +5,7 @@
 <div>
   <script type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.8/jquery.min.js"></script>
   <script type="text/javascript" src="<?php echo JS_BASE.'esquire.js'; ?>"></script>  
+  <script type="text/javascript" src="<?php echo JS_BASE.'site.js'; ?>"></script>
   <!-- js -->  
   <script type="text/javascript">
     
@@ -30,5 +31,8 @@
     <br/>
   </span>
 </footer>
+<div id="back-top">
+  <a href="#top"><span></span>Back to Top</a>
+</div>
 </body>
 </html>
