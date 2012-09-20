@@ -47,6 +47,8 @@
 * [*fancybox*](http://fancybox.net/): A fancy box  
 * [*ember.js*](http://emberjs.com/): A framework for creating ambitious web applications  
 * [*meteor*](http://www.meteor.com/): Platform supporting live page updates  
+* [*Modernizr*](http://modernizr.com/): A HTML 5 and CSS 3 detector  
+* [*FusionCharts*](http://www.fusioncharts.com/): Delightful Charts, Gauges and Maps...  
 
 #### Articles
 * [21 Powerful JS Frameworks](http://paranimage.com/21-powerful-javascript-frameworks/)  
