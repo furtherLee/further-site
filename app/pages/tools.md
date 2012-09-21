@@ -47,6 +47,8 @@
 * [*fancybox*](http://fancybox.net/): A fancy box  
 * [*ember.js*](http://emberjs.com/): A framework for creating ambitious web applications  
 * [*meteor*](http://www.meteor.com/): Platform supporting live page updates  
+* Template Engine: [*mustache*](http://mustache.github.com/), [*dust*](http://akdubya.github.com/dustjs/), [*handlebars*](http://handlebarsjs.com/)  
+* [*jasmine*](http://pivotal.github.com/jasmine/): Behavior-driven development framework  
 
 #### Articles
 * [21 Powerful JS Frameworks](http://paranimage.com/21-powerful-javascript-frameworks/)  
