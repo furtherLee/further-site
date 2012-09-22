@@ -7,7 +7,7 @@ Basic Information
 * Email: 95588lsj@gmail.com  
 * Living in: Beijing  
 * Current Position: Intern at HP Labs China  
-* CV: Li Shijian.pdf
+* CV: [Li_Shijian.pdf](assets/file/Li_Shijian.pdf)
 
 Education
 ----------
@@ -31,5 +31,4 @@ Miscellaneous
 * [My Blog](http://blog.lishijian.com)
 * [My Github](http://github.com/furtherLee)  
 * [My Bitbucket](https://bitbucket.org/furtherLee)  
-
-
+* [My GitCafe](https://gitcafe.com/furtherLee)  

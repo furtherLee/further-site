@@ -5,6 +5,7 @@ define('URL_BASE', 'http://furthersite.sinaapp.com/');
 define('JS_BASE', URL_BASE.'assets/js/');
 define('CSS_BASE', URL_BASE.'assets/css/');
 define('IMG_BASE', URL_BASE.'assets/img/');
+define('FILE_BASE', URL_BASE.'assets/file/');
 
 $pageTitle = array(
 	       "about" => "Personal Information",
