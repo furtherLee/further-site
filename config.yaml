@@ -2,4 +2,4 @@ name: furthersite
 version: 1
 handle:
     - rewrite: if(!is_dir() && !is_file()) goto "index.php?%{QUERY_STRING}"
-    - passwdaccess: if(path ~ "/admin/") passwd "furtherLee:901019"
+    - passwdaccess: if(path ~ "/app/") passwd "furtherLee:******"
