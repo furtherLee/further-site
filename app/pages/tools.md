@@ -50,6 +50,7 @@
 * Template Engine: [*mustache*](http://mustache.github.com/), [*dust*](http://akdubya.github.com/dustjs/), [*handlebars*](http://handlebarsjs.com/)* [*jasmine*](http://pivotal.github.com/jasmine/): Behavior-driven development framework  
 * [*Modernizr*](http://modernizr.com/): A HTML 5 and CSS 3 detector  
 * [*FusionCharts*](http://www.fusioncharts.com/): Delightful Charts, Gauges and Maps...  
+* [*Jasmine*](http://pivotal.github.com/jasmine/): Behavior-driven tester  
 
 #### Articles
 * [21 Powerful JS Frameworks](http://paranimage.com/21-powerful-javascript-frameworks/)  
