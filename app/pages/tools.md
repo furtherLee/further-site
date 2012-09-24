@@ -52,6 +52,8 @@
 * [*FusionCharts*](http://www.fusioncharts.com/): Delightful Charts, Gauges and Maps...  
 * [*Jasmine*](http://pivotal.github.com/jasmine/): Behavior-driven tester  
 * [*AngularJS*](http://angularjs.org/): Google front-end framework  
+* [*Selenium*](http://seleniumhq.org/): Test suites to automate browsers  
+* [*PhantomJS*](http://phantomjs.org/): Headless website testing, screen capture, page automation, network monitoring  
 
 #### Articles
 * [21 Powerful JS Frameworks](http://paranimage.com/21-powerful-javascript-frameworks/)  
