@@ -51,6 +51,7 @@
 * [*Modernizr*](http://modernizr.com/): A HTML 5 and CSS 3 detector  
 * [*FusionCharts*](http://www.fusioncharts.com/): Delightful Charts, Gauges and Maps...  
 * [*Jasmine*](http://pivotal.github.com/jasmine/): Behavior-driven tester  
+* [*AngularJS*](http://angularjs.org/): Google front-end framework  
 
 #### Articles
 * [21 Powerful JS Frameworks](http://paranimage.com/21-powerful-javascript-frameworks/)  
