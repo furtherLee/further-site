@@ -1,5 +1,9 @@
 <html>
   <head>
+    <!--[if lt IE 9]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <![endif]-->
+    
     <title>Site of Li Shijian</title>
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="<?php echo CSS_BASE."site.css";?>"/>
