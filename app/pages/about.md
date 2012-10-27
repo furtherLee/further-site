@@ -19,6 +19,16 @@ Teaching Assistant
 * 2011 Fall - Set Theory and Mathematical Logic  
 * 2012 Spring - [Compiler](http://acm.sjtu.edu.cn/compiler/)
 
+Publication
+------------
+* Yongqiang Liu, **Shijian Li**, Junqing Xie: u-Shield: A Defense Mechanism to Prevent AP from I/O Blocking Attack with IEEE802.11u. HP Tech Con '13(submitted)  
+* Yongqiang Liu, Xunteng Xu, Junqing Xie, **Shijian Li**, Qunyang Lin: A Flexible, Secure and High-Performance Hotspot2.0 Service System for HPN MSGN APs. HP Tech Con '13(submitted) 
+
+Patent
+------
+* Under Review  
+* Under Review
+
 Interests
 ----------
 * Cloud Computing  
