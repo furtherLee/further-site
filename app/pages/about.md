@@ -12,6 +12,8 @@ Basic Information
 Education
 ----------
 * Undergraduate(2009 ~ now): Shanghai Jiaotong University, ACM Class    
+* Senior High(2006 ~ 2009): Northeast Yucai School, Olympic Academic Center  
+* Junior High(2003 ~ 2006): Dandong No.6 Middle School  
 
 Teaching Assistant
 -------------------
