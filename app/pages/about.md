@@ -1,4 +1,4 @@
-![avatar](http://en.gravatar.com/avatar/a9a1acd402ef13a85a72ee2912848807?s=256")  
+![avatar](http://en.gravatar.com/avatar/a9a1acd402ef13a85a72ee2912848807?s=256)  
 
 Basic Information
 -----------------
