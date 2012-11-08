@@ -24,7 +24,7 @@ Teaching Assistant
 Publication
 ------------
 * Yongqiang Liu, **Shijian Li**, Junqing Xie: u-Shield: A Defense Mechanism to Prevent AP from I/O Blocking Attack with IEEE802.11u. WoWMoM 2013(submitted)  
-* Yongqiang Liu, Xunteng Xu, Junqing Xie, **Shijian Li**, Qunyang Lin: A Flexible, Secure and High-Performance Hotspot2.0 Service System for HPN MSGN APs. HP TechCon'13(submitted) 
+* Yongqiang Liu, Xunteng Xu, Junqing Xie, Qunyang Lin, **Shijian Li**, Ran-Fun Chiu, Paul Congdon, Stephane Laroche, Rob Fowler, and Kyu-Han Kim: Hotspot2.0: a Seamless Roaming Enhancement for HPN MSM Wi-Fi Systems. HP TechCon'13(submitted) 
 * Yongqiang Liu, Xunteng Xu, **Shijian Li**, Junqing Xie, Qunyang Lin: An Intelligent and Robust Extension to Hotspot2.0 Client. HP TechCon'13(submitted)
 
 Patent
