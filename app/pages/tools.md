@@ -4,7 +4,8 @@
 #### Libraries
 * [*libnl*](http://www.infradead.org/~tgr/libnl/): Netlink Protocol Library Suite  
 * [*iniparser*](http://ndevilla.free.fr/iniparser/): Ini file parser in C  
-
+* [*dietlibc*](http://www.fefe.de/dietlibc/): Small size libc implementation to be statically linked in your code
+ 
 #### Articles
 * [Extern VS Static Inline](http://elinux.org/Extern_Vs_Static_Inline)
 
