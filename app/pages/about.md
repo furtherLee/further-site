@@ -23,7 +23,7 @@ Teaching Assistant
 
 Publication
 ------------
-* Yongqiang Liu, **Shijian Li**, Junqing Xie, Xunteng Xu: Security Analysis and Improvements of IEEE802.11u. WoWMoM 2013(submitted)  
+* Yongqiang Liu, **Shijian Li**, Junqing Xie, Xunteng Xu: Security Vulnerability Analysis and Improvements of IEEE802.11u. WoWMoM 2013(submitted)  
 * Yongqiang Liu, Xunteng Xu, Junqing Xie, Qunyang Lin, **Shijian Li**, Ran-Fun Chiu, Paul Congdon, Stephane Laroche, Rob Fowler, and Kyu-Han Kim: Hotspot2.0: a Seamless Roaming Enhancement for HPN MSM Wi-Fi Systems. HP TechCon'13(submitted) 
 * Yongqiang Liu, Xunteng Xu, **Shijian Li**, Junqing Xie, Qunyang Lin: An Intelligent and Robust Extension to Hotspot2.0 Client. HP TechCon'13(submitted)
 
