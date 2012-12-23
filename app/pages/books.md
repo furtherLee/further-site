@@ -23,6 +23,7 @@ Techniques
 * *Understanding the Linux Kernel* by Daniel P. Bovet, Marco Cesati  
 * *Linux Device Drivers* by Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman  
 * *Windows Internals* by Mark E. Russinovich, David A. Solomon, Alex Lonescu  
+* *REST in Practice* by Jim Webber, Savas Parastatidis, Ian Robinson
 
 ### Toolkits
 * *Pro Git* by Scott Chacon  
