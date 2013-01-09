@@ -2,6 +2,7 @@
 
 Reading
 -------
+* *The Art of Readable Code* by Dustin Boswell and Trevor Foucher  
 * *Patterns of Enterprise Application Architecture* by Martin Fowler 
 
 Techniques
