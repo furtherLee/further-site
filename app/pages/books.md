@@ -2,7 +2,6 @@
 
 Reading
 -------
-* *The Art of Readable Code* by Dustin Boswell and Trevor Foucher  
 * *Patterns of Enterprise Application Architecture* by Martin Fowler 
 
 Techniques
@@ -11,6 +10,7 @@ Techniques
 ### Management
 * *The Mythical Man-Month: Essays on Software Engineering* by Fred Brooks  
 * *Extreme Programming Explained: Embrach Change* by Kent Beck, Cynthia Andres  
+* *The Art of Readable Code* by Dustin Boswell and Trevor Foucher 
 
 ### Architecture and Coding Style
 * *Refactoring: Improving the Design of Existing Code* by Martin Fowler  
