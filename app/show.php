@@ -8,6 +8,12 @@ function show($page){
   $templateDir = "app/view/templates";
   $pageDir = "app/view/pages";
   global $pageTitle;
+
+  if ($page == "fatworm") {
+    include("$pageDir/fatworm.php");
+    return;
+  }
+
   if($page == '404' || !is_file("$pageDir/$page.html")){
     include("$templateDir/404.php");
     return;
@@ -20,12 +26,22 @@ function show($page){
   include("$templateDir/footer.php");
 }
 
-$page = $_GET['page'];
+function action($action) {
+  $actionDir = "app/actions";
+  if(!is_file("$actionDir/$action.php")) {
+    include("$templateDir/404.php");
+  }
+  else
+    include("$actionDir/$action.php");
+}
 
-if(!isset($page))
+$page = $_GET['page'];
+$action = $_GET['action'];
+
+if(!isset($page) && !isset($action))
   $page = "about";
 
-if(not_root())
-  $page = '404';
-
-show($page);
+if($page)
+  show($page);
+else
+  action($action);

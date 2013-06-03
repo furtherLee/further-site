@@ -29,9 +29,9 @@ Publication
 
 Patent
 ------
-* Yongqiang Liu, **Shijian Li**, Junqing Xie: A Solution to Prevent an I/O Blocking Attack to AP with IEEE802.11u (to be filed)
-* Yongqiang Liu, **Shijian Li**, Junqing Xie: A Solution to Protect Memory Attack to AP with IEEE802.11u (to be filed)
-* **Shijian Li**, Yongqiang Liu, Junqing Xie: A Solution to Bogus Response to Client with IEEE802.11u (submitted)
+* Yongqiang Liu, **Shijian Li**, Junqing Xie: A Solution to Prevent an I/O Blocking Attack to AP with IEEE802.11u (filed)
+* Yongqiang Liu, **Shijian Li**, Junqing Xie: A Solution to Protect Memory Attack to AP with IEEE802.11u (filed)
+* **Shijian Li**, Yongqiang Liu, Junqing Xie: A Solution to Bogus Response to Client with IEEE802.11u (filed)
   
 Interests
 ----------
@@ -46,3 +46,4 @@ Miscellaneous
 * [My Github](http://github.com/furtherLee)  
 * [My Bitbucket](https://bitbucket.org/furtherLee)  
 * [My GitCafe](https://gitcafe.com/furtherLee)  
+
