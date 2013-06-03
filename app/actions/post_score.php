@@ -5,7 +5,7 @@ $storage = new SaeStorage($_accessKey=SAE_ACCESSKEY, $_secretKey=SAE_SECRETKEY);
 $stu_no = $_POST['student_no'];
 
 if ($storage->fileExists("personal", "$stu_no.dat")) {
-  echo "你已经上传过打分表";
+  echo "You have scored others.";
 };
 
 $students = array("陈启明", "寥予科", "向子卿",
@@ -24,4 +24,4 @@ for($i = 0; $i < count($students); $i++) {
 
 $storage->write("personal", "$stu_no.dat", $content);
 
-echo "打分成功";
+echo "Scoring Succeed.";
