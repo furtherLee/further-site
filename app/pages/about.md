@@ -49,7 +49,7 @@ Coursera Profile
 * [Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds](assets/file/POSA_Certificate.pdf): Grade 84.2%
 * [Functional Programming Principles in Scala](assets/file/FP_in_Scala_Certificate.pdf): Grade 100.0%
 * [An Introduction to Interactive Programming in Python](assets/file/Python_Certificate.pdf): Grade 96.5%
-* [Startup Engineering](Startup_Certificate.pdf): Grade 100.0%
+* [Startup Engineering](assets/file/Startup_Certificate.pdf): Grade 100.0%
 
 Interests
 ----------
