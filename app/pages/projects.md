@@ -59,6 +59,47 @@ This is a module of an application of internet of things. This application is pr
 Independent Project
 ---------------------
 
+### Esophy (Private)
+Link: <http://esophy.sinaapp.com>
+Host: <https://github.com/furtherLee/childbook>
+
+One of my friend, Linhao Fang, proposes to set up a new startup in Beijing after he finish his PhD study from Oxford University. His bussiness area will be in children book rental service. He has already had an offline store, however is new online website is needed for expanding customers. Therefore, I helped him designed and implemented a website prototype using my fast prototying stack (Slim, Twig, Mustache...) and published it onto Sina App Engine, which is the biggest PaaS service in China.
+
+Now he is busy finishing his dissertation. Therefore, the website is still a blank one without any content. It will finally go into a bussiness after he come back to China near February next year.
+
+### Balanced Life Therapy Centre
+Link: <http://www.drwangchinesemedicine.co.uk>
+
+Just a specilized Wordpress Website for a local Chinese Medicine Centre in London. Supported features including:
+
+1. Online Feedback
+2. Online Forum
+3. Google Analytics
+4. Share Buttons
+5. Goole Map Instructions
+
+### SJTU Hackathon 2013
+Website-Link: <https://github.com/furtherLee/hackthon>
+Android-Link: <https://github.com/furtherLee/hacker-android>
+
+In the first SJTU Hackathon event, my group including Jun Qu, Menghui Wang and me decided to develope an online service for both take-off deliver and customers. I provided the website framework and finished the android application part for our group.
+
+In SJTU, students like to order take-off online. However, it's quite frequent that delivery could be very slow. Therefore we proposed this service such that, it could have the following functions:
+
+1. Automatically design a route for deliver.
+2. Monitor where a deliver is.
+3. Delivery notification from deliver side.
+
+As a user, you could know who is delivering your take-off and where he is now. As a deliver, when you started from an offline store, you could get direct route instructions from the android application. And when you successfully delivered a take-off, you could instantly reported to the offline shop.
+
+Finally, this project wins the third place of this Hackathon event.
+
+### Da Fei Ji
+Link: <https://github.com/D19-308/dfj-web>
+Have a Try: <http://d19-308.github.io/dfj-web/>
+
+Shooting airplane (Chinese name: Da Fei Ji) is a popular and interesting game among Northern China. Students like to play such a game with friends when they feel boring at self-study course. Xiao Jia and I decided to bring this game online. We use only JS and HTML to finish this game here. Therefore, this is just the simple online game which bring us to our childhood.
+
 ### Paike
 
 Link: <https://github.com/furtherLee/paike>  
